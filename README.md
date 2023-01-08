@@ -1,7 +1,5 @@
 # samir_flutter_ui_challenge
 
-This project contains list of  awesome challenging flutter UIs  custom paints Animations.
-
 On the way to success, it is always us, not me.
 
 When I saw the idea of a group of UI / UX developers who decided to make a challenge to share a new design of thier work daily, as some sort of inspiration source or a thread of ideas for others. 
